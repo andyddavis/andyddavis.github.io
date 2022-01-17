@@ -3,6 +3,4 @@ title: Home
 layout: default
 ---
 
-r
-HGIWRO
-cdfrq
+This is the home page.
