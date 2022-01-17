@@ -1,4 +1,5 @@
 title: Andy Davis
+description: Personal website
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
