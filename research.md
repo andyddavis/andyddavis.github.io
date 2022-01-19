@@ -3,4 +3,4 @@ title: Research
 layout: default
 ---
 
-research!
+My research uses numerical and mathematical tools to understand and predict cryospheric dynamics. 
