@@ -12,4 +12,4 @@ My current research uses numerical and mathematical tools to understand and pred
 
 I contribute to open-source software that makes state-of-the-art tools available to the scientific community. I am proficient in C/C++, Python, MATLAB and programming tools such as git and cmake.
 
-For more information about my current research see our [team website](https://seaicemuri.org/index.html).
+For more information about my current research, see our [team website](https://seaicemuri.org/index.html).
